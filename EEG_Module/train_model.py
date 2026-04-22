@@ -27,7 +27,7 @@ from xgboost import XGBClassifier
 # 1 LOAD DATA
 # ---------------------------------------------------
 
-path = "/serverdata/ccshome/anjanasinha/NAS/DreamData/DSU/preprocessed_v2.csv"
+path = "PATH TO DATA"
 
 print("Loading dataset...")
 
