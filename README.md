@@ -94,7 +94,7 @@ This project combines **deep neural insights** with **real-time behavioral signa
 
 ## 🎥 Demo
 
-[![Watch Demo]](fusion_recording.mp4)
+[![Watch Demo]](fusion_demo.mp4)
 
 ---
 
