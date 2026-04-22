@@ -94,7 +94,7 @@ This project combines **deep neural insights** with **real-time behavioral signa
 
 ## 🎥 Demo
 
-[![Watch Real-Time Demo]](Eye_Gaze_Module/Demo/recording.mp4)
+[![Watch Demo]](fusion_recording.mp4)
 
 ---
 
