@@ -100,9 +100,8 @@ The raw eye-tracking data was preprocessed using the following steps:
 
 ## 🎥 Demo
 
-<p align="center">
-  <video src="Demo/recording.mp4" width="600" controls></video>
-</p>
+
+▶️ [Watch Real-Time Eye Gaze Demo](Demo/recording.mp4)
 
 ---
 
