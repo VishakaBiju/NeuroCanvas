@@ -13,7 +13,7 @@ import seaborn as sns
 import joblib
 
 # --- 1. Load dataset ---
-input_path = r"E:\Drive E files\MAJOR PROJECT\eyegaze_emotion_project\nimhans\augmented_gaze_data.csv"
+input_path = r"augmented_gaze_data.csv"
 df = pd.read_csv(input_path)
 print("✅ Dataset loaded. Shape:", df.shape)
 
@@ -96,6 +96,6 @@ plt.title("Feature Importance")
 plt.show()
 
 # --- 10. Save model ---
-output_model_path = r"E:\Drive E files\MAJOR PROJECT\eyegaze_emotion_project\nimhans\xgb_saccade_model.pkl"
+output_model_path = r"xgb_saccade_model.pkl"
 joblib.dump((model, le, feature_cols, scaler), output_model_path)
 print(f"\n✅ Model saved at: {output_model_path}")
