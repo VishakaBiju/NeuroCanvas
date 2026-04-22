@@ -33,8 +33,8 @@ app = Flask(__name__)
 # ─────────────────────────────────────────
 # PATHS
 # ─────────────────────────────────────────
-MODEL_PATH = r"C:\Users\HP\Desktop\DSU\real_time_tracking\xgb_saccade_model.pkl"
-VIDEO_PATH = r"C:\Users\HP\Desktop\DSU\stimuli\horror.mp4"
+MODEL_PATH = r"MODEL PATH"
+VIDEO_PATH = r"VIDEO PATH"
 
 # ─────────────────────────────────────────
 # LOAD MODEL
