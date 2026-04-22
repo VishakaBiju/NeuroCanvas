@@ -38,7 +38,7 @@ print("Model loaded successfully")
 # 2 LOAD DATASET
 # ---------------------------------------------------
 
-path = "/serverdata/ccshome/anjanasinha/NAS/DreamData/DSU/preprocessed_v2.csv"
+path = "preprocessed_v2.csv"
 
 print("Loading test dataset...")
 df = pd.read_csv(path)
